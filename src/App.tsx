@@ -1,7 +1,6 @@
 import React from "react";
 import styled from "@emotion/styled";
 import { Typography } from "@mui/material";
-
 import { InputForm } from "./components/InputForm";
 import { List } from "./components/List";
 
